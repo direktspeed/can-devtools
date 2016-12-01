@@ -33,6 +33,6 @@
     "steal-qunit": "^0.1.1",
     "steal-tools": "^0.16.2",
     "transpile": "git://github.com/ccummings/transpile.git#72408598342edbf2cdfabe1ebceb0f599d3a5964",
-    "yargs": "^6.3.0"
+    "yargs": "^6.5.0"
   }
 }
