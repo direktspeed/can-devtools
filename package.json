@@ -29,7 +29,7 @@
     "can": "^3.0.0",
     "jquery": "^3.1.1",
     "less": "^2.7.1",
-    "steal": "^0.16.4",
+    "steal": "^1.0.0",
     "steal-qunit": "^0.1.1",
     "steal-tools": "^0.16.2",
     "transpile": "git://github.com/ccummings/transpile.git#72408598342edbf2cdfabe1ebceb0f599d3a5964",
